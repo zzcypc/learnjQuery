@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#main{
+	position: relative;
+	/*overflow: hidden;*/
+}
+.box{
+	padding: 15px 0 0 15px;
+	float: left;
+}
+.pic{
+	padding: 10px;
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+	box-shadow:0 0 5px #CCCCCC;
+}
+.pic img{
+	display: block;
+	width: 165px;
+}
